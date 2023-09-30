@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1,|GR| EPT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100176
+#EXTINF:-1,|GR| EPT 1
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100177
+#EXTINF:-1,|GR| EPT 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100178
+#EXTINF:-1,|GR| EPT 2
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100179
+#EXTINF:-1,|GR| EPT 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100180
+#EXTINF:-1,|GR| EPT 3
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100181
+#EXTINF:-1,|GR| ALPHA HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100182
+#EXTINF:-1,|GR| SKAI HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100183
+#EXTINF:-1,|GR| OPEN BEYOND HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100184
+#EXTINF:-1,|GR| MEGA HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100185
+#EXTINF:-1,|GR| CRETA TV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100187
+#EXTINF:-1,|GR| KONTRA TV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100188
+#EXTINF:-1,|GR| MAKEDONIA TV HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100189
+#EXTINF:-1,|GR| ANT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100190
+#EXTINF:-1,|GR| STAR HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100191
+#EXTINF:-1,|GR| CRETA TV HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100193
+#EXTINF:-1,|GR| ANT 1
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100194
+#EXTINF:-1,|GR| ALPHA
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100195
+#EXTINF:-1,|GR| 4E
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100197
+#EXTINF:-1,|GR| TV 100
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100199
+#EXTINF:-1,|GR| SIGMA TV CY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100200
+#EXTINF:-1,|GR| RIK SAT CY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100202
+#EXTINF:-1,|GR| MADGREEKZ HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100214
+#EXTINF:-1,|GR| MACEDONIA HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100216
+#EXTINF:-1,|GR| ONE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286501
+#EXTINF:-1,|GR| TLC
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286502
+#EXTINF:-1,|GR| MAGIC TV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286503
+#EXTINF:-1,|GR| XALASTRA TV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286504
+#EXTINF:-1,|GR| BARAZA GREEK MUSIC HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286505
+#EXTINF:-1,|GR| BARAZA TV HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286506
+#EXTINF:-1,|GR| START TV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286507
+#EXTINF:-1,|GR| PELLA TV HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286508
+#EXTINF:-1,|GR| PLAY TV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286509
+#EXTINF:-1,|GR| NRG TV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286510
+#EXTINF:-1,|GR| INSIGHT TV HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286511
+#EXTINF:-1,|GR| NR1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286512
+#EXTINF:-1,|GR| DUCK TV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286513
+#EXTINF:-1,|GR| TILEMOUSIKI TV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286514
+#EXTINF:-1,===== GR NEWS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100218
+#EXTINF:-1,|GR| ERT WORLD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100220
+#EXTINF:-1,===== GR KIDS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100222
+#EXTINF:-1,GR: NICKELODEON HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100223
+#EXTINF:-1,GR: DISNEY CHANNEL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100225
+#EXTINF:-1,GR: DISNEY JUNIOR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100226
+#EXTINF:-1,|GR| JIM JAM
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286515
+#EXTINF:-1,|GR| BOOMERANG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286516
+#EXTINF:-1,GR: SMILE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100228
+#EXTINF:-1,===== GR MOVIES =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100231
+#EXTINF:-1,GR: NOVA CINEMA 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100233
+#EXTINF:-1,GR: NOVA CINEMA 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100234
+#EXTINF:-1,GR: NOVA CINEMA 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100235
+#EXTINF:-1,GR: NOVA CINEMA 4 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100236
+#EXTINF:-1,GR: COSMOTE CINEMA 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100237
+#EXTINF:-1,|GR| COSMOTE CINEMA 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100238
+#EXTINF:-1,|GR| COSMOTE CINEMA 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100239
+#EXTINF:-1,|GR| COSMOTE SERIES HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100241
+#EXTINF:-1,===== GR DOCUMENTARY =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100248
+#EXTINF:-1,|GR| NATIONAL GEOGRAPHIC HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100249
+#EXTINF:-1,|GR| NATIONAL GEOGRAPHIC WILD HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100250
+#EXTINF:-1,|GR| DISCOVERY CHANNEL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100251
+#EXTINF:-1,|GR| DISCOVERY SCIENCE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100253
+#EXTINF:-1,|GR| NOVA LIFE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100254
+#EXTINF:-1,|GR| NOVA LIFE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100259
+#EXTINF:-1,|GR| VIASAT EXPLORE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100262
+#EXTINF:-1,|GR| VIASAT HISTORY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100263
+#EXTINF:-1,|GR| VIASAT NATURE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100264
+#EXTINF:-1,|GR| MY ZEN
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286517
+#EXTINF:-1,===== GR ENTERTAINMENT =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100268
+#EXTINF:-1,|GR| FOX HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100270
+#EXTINF:-1,|GR| FOX LIFE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100271
+#EXTINF:-1,|GR| TCM HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100272
+#EXTINF:-1,|GR| CBS REALITY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100273
+#EXTINF:-1,|GR| ANIMAL PLANET
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286518
+#EXTINF:-1,|GR| HISTORY CHANNEL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286519
+#EXTINF:-1,|GR| DISCOVERY ID HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286520
+#EXTINF:-1,|GR| TRAVEL CHANNEL HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286521
+#EXTINF:-1,|GR| MAD GREEKZ
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286522
+#EXTINF:-1,|GR| E! ENTERTAINMENT HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286523
+#EXTINF:-1,|GR| FOOD NETWORK HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100277
+#EXTINF:-1,===== GR MUSIC =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100278
+#EXTINF:-1,===== GR SPORTS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100287
+#EXTINF:-1,|GR| NOVA SPORTS NEWS HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100296
+#EXTINF:-1,|GR| COSMOTE SPORT HIGHLIGHTS HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286524
+#EXTINF:-1,|GR| NOVA SPORTS START HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286525
+#EXTINF:-1,|GR| NOVA SPORT PREMIER LEAGUE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286526
+#EXTINF:-1,|GR| NOVA SPORT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100288
+#EXTINF:-1,|GR| NOVA SPORT 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100289
+#EXTINF:-1,|GR| NOVA SPORT 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100290
+#EXTINF:-1,|GR| NOVA SPORT 4 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100291
+#EXTINF:-1,|GR| NOVA SPORT 5 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100292
+#EXTINF:-1,|GR| NOVA SPORTS 6 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100293
+#EXTINF:-1,|GR| NOVA SPORTS EXTRA 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286527
+#EXTINF:-1,|GR| NOVA SPORTS EXTRA 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286528
+#EXTINF:-1,|GR| NOVA SPORTS EXTRA 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286529
+#EXTINF:-1,|GR| NOVA SPORT START
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100294
+#EXTINF:-1,|GR| NOVA SPORT PRIME
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100295
+#EXTINF:-1,|GR| NOVA SPORT PREMIER LEAGUE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/278761
+#EXTINF:-1,|GR| COSMOTE SPORT HIGHLIGHTS FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/286530
+#EXTINF:-1,|GR| COSMOTE SPORT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100298
+#EXTINF:-1,|GR| COSMOTE SPORT 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100299
+#EXTINF:-1,|GR| COSMOTE SPORT 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100300
+#EXTINF:-1,|GR| COSMOTE SPORT 4 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100301
+#EXTINF:-1,|GR| COSMOTE SPORT 5 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100302
+#EXTINF:-1,|GR| COSMOTE SPORT 6 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100303
+#EXTINF:-1,|GR| COSMOTE SPORT 7 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100304
+#EXTINF:-1,|GR|  COSMOTE SPORT 8 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100305
+#EXTINF:-1,|GR| EUROSPORT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/116213
+#EXTINF:-1,|GR| EUROSPORT 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/116214
